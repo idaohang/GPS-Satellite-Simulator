@@ -13,6 +13,6 @@
 integration interface specification, IS-GPS-200G, 5 sep 2012
 
 
-[1]: file:///gold_code_generator.png
+[1]: ./gold_code_generator.png
 
 vi: spell spl=en ft=markdown
